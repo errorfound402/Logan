@@ -138,7 +138,7 @@ def send_start(bot, update):
     text = " Hello , my name is Sunny Leone! - I'm here to help you manage your groups!\n\
 Click Help or /help.. button to find out more about how to use me to my full potential.\n\n"
 
-    text += " I wanna do Bad things with [Play Boy!!](https://t.me/Baby_xD) And Support us with Love"
+    text += " I wanna do Bad things with [Play Boy!!](https://t.me/Unknown_Hacker_X) And Support us with Love"
 
 
 
